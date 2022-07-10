@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 18px;
+    font-style: italic;
+}
+
+a {
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
